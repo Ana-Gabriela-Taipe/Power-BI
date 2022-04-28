@@ -1,0 +1,1 @@
+En este Informe de Ventas se realizó graficos y visualizaciones interactivas que represantan los montos de ventas para distintas categorías (Región, Producto, Vendedor) dentro e una serie de datos de la dada ¨Ventas.xlsx¨.
