@@ -1,1 +1,1 @@
-Se desarrolla un Reporte de Ingresos, Utilidad y Margen muy intuitivo como el objetivo de contar una historia y ayude a la toma de una acción eficiente.
+Se desarrolla un Reporte de Ingresos, Utilidad y Margen muy intuitivo con el objetivo de contar una historia y que ayude a la toma de una acción eficiente. Se utiliza el archivo "Finanzas.xlsx" para el desarrollo de este informe.
