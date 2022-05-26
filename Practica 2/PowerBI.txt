@@ -1,0 +1,3 @@
+En este link, encontratrá la visualización del informe de Utilidades, e Ingresos respecto a los Tipos de Producto y Productos por Region. 
+
+https://app.powerbi.com/view?r=eyJrIjoiZWE1ODIwNDAtNzljNi00ZjYwLWJlNDgtNTYwMjA2NWE4M2ZlIiwidCI6IjY4MmE0ZTZhLWE3N2YtNDk1OC1hM2FjLTllMjY2ZDE4YWEzNyIsImMiOjR9 
