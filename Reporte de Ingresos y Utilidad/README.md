@@ -1,16 +1,9 @@
-Se desarrolla un Reporte de Ingresos, Utilidad y Margen muy intuitivo con el objetivo de contar una historia y que ayude a la toma de una acción eficiente. Se utiliza el archivo "Finanzas.xlsx" para el desarrollo de este informe.
-
-
-En este Informe de Ventas se realizó graficos y visualizaciones interactivas que represantan los montos de ventas para distintas categorías (Región, Producto, Vendedor) dentro e una serie de datos de la dada ¨Ventas.xlsx¨.
+En este Reporte de Ingresos y Utilidades se realizó graficos y visualizaciones interactivas que represantan los Ingresos y Utilidades de los diferentes Tipos de Productos por Región que maneja la empresa X, así como el Margen de Utilidad de cada uno de ellos, con el objetivo de contar una historia y que ayude a la toma de una acción eficiente. Se utiliza el archivo "Finanzas.xlsx" para el desarrollo de este informe.
 
 Como conclusiones podemos decir que:
 
-	1. La región Central es la que más ventas ha desarrollado, teniendo un 38% de las ventas totales.
-	2. El producto que más se ha vendido son los productos de Sistemas, ocupando el 56% de las ventas.
-	3. El vendedor más prometedor ha sido Karen con ventas que superan los $50 mil dólares. 
-
-Observaciones:
-	-Existen dos documentos: el primero llamado "Ventas" es un informe NO dinámico, el segundo llamado "VentasAutomatizado" es
-	 dinámico usando Macros de Excel.
-
+	1. Chile tiene más ingresos por región, con un 25.19% del Total, en el que el Tipo de Producto "QUOKAR" es el que más representa sus ingresos. 
+	2. En el reporte de Utilidad respecto la Región, vemos que Canadá tiene mas Margen de Utilidad que Chile a pesar de que este sea el que posea más ingresos.
+	Se puede ver también que el primer periodo del año, es cuando más Margen de Utilidad se tiene en el total de Regiones.
+	3. En el reporte de Utilidad respecto al Tipo de Produto, vemos que el tipo de producto "SALF" es el que más Margen de Utilidad posee con un 60.26% 
 
