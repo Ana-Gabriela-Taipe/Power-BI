@@ -1,4 +1,0 @@
-En este link, podemos observar la misma visualización detallada en Excel, pero realizada en Power BI.
-
-https://app.powerbi.com/view?r=eyJrIjoiYzg4ZmZlNjktMThhYi00NzVmLTgzNTAtNzhiZDdkNGJiZmE4IiwidCI6IjY4MmE0ZTZhLWE3N2YtNDk1OC1hM2FjLTllMjY2ZDE4YWEzNyIsImMiOjR9
-
