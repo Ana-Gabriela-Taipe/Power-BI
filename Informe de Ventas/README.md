@@ -13,4 +13,4 @@ Observaciones:
 	- Para visualizar el informe en Power BI seguir el enlace de la carpeta "Power BI Informe de Ventas". 
 
 
-![alt text](Informe de Ventas/Informe de Ventas.png)
+![Screenshot](Informe de Ventas/Informe de Ventas.png)
