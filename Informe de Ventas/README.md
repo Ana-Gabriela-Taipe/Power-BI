@@ -8,6 +8,6 @@ Como conclusiones podemos decir que:
 
 Observaciones:
 
-	- Se realiza el mismo informe en los lenguajes de visualización y análisis de datos **Power BI** y **Excel**.
+	- Se realiza el informe en los lenguajes de visualización y análisis de datos: Power BI y Excel.
 	- Existen dos documentos de Excel: el primero llamado "Ventas" es un informe NO dinámico en el cual se debe "refrescar" la Data, cuando haya nuevas entradas de datos, el segundo llamado "VentasAutomatizado" que es dinámico usando Macros de Excel y permite la actualización automática de nueva Data.
-	- Para visualizar el informe en **Power BI** seguir el enlace de la carpeta "Power BI Informe de Ventas". 
+	- Para visualizar el informe en Power BI seguir el enlace de la carpeta "Power BI Informe de Ventas". 
