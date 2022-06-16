@@ -12,10 +12,5 @@ Observaciones:
 	- Existen dos documentos de Excel: el primero llamado "Ventas" es un informe NO dinámico en el cual se debe "refrescar" la Data, cuando haya nuevas entradas de datos, el segundo llamado "VentasAutomatizado" que es dinámico usando Macros de Excel y permite la actualización automática de nueva Data.
 	- Para visualizar el informe en Power BI seguir el enlace de la carpeta "Power BI Informe de Ventas". 
 
-
-![Optional Text](Informe de Ventas/Informe de Ventas.png)
-
-![Optional Text](Informe de Ventas/Informe de Ventas.png)
-
 ![stack Overflow](http://lmsotfy.com/so.png)
-![stack Overflow]([Informe de Ventas/Informe de Ventas.png](https://github.com/Ana-Gabriela-Taipe/PowerBI-y-Excel/blob/ccf5f15c0958ffd66c7bbe2c31b25d23d287cf96/Informe%20de%20Ventas/Informe%20de%20Ventas.png))
+
