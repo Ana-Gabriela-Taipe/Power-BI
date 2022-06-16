@@ -18,3 +18,4 @@ Observaciones:
 ![Optional Text](Informe de Ventas/Informe de Ventas.png)
 
 ![stack Overflow](http://lmsotfy.com/so.png)
+![stack Overflow](Informe de Ventas/Informe de Ventas.png)
