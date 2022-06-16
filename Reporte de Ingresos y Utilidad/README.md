@@ -1,4 +1,4 @@
-En este Reporte de Ingresos y Utilidades se realizó graficos y visualizaciones interactivas que represantan los Ingresos y Utilidades de los diferentes Tipos de Productos por Región que maneja la empresa X, así como el Margen de Utilidad de cada uno de ellos, con el objetivo de contar una historia y que ayude a la toma de una acción eficiente. Se utiliza el archivo "Finanzas.xlsx" para el desarrollo de este informe.
+En este **Reporte de Ingresos y Utilidades** se realizó graficos y visualizaciones interactivas que represantan los Ingresos y Utilidades de los diferentes Tipos de Productos por Región que maneja la empresa X, así como el **Margen de Utilidad** de cada uno de ellos, con el objetivo de contar una historia y que ayude a la toma de una acción eficiente. Se utiliza el archivo "Finanzas.xlsx" para el desarrollo de este informe.
 
 Como conclusiones podemos decir que:
 
@@ -7,3 +7,7 @@ Como conclusiones podemos decir que:
 	Se puede ver también que el primer periodo del año, es cuando más Margen de Utilidad se tiene en el total de Regiones.
 	3. En el reporte de Utilidad respecto al Tipo de Produto, vemos que el tipo de producto "SALF" es el que más Margen de Utilidad posee con un 60.26% 
 
+Observaciones:
+
+	- Se realiza el reporte en los lenguajes de visualización y análisis de datos: Power BI y Excel.
+	- Para visualizar el informe en Power BI seguir el enlace de la carpeta "Power BI Reporte de Ingresos y Utilidad". 
