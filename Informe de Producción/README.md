@@ -1,3 +1,14 @@
+Se desarrolla un **Informe de Producción** para la empresa "LAYT INTERNATIONAL"; una compañía manufacturera de bulbos que cuenta con información histórica de sus órdenes de producción y desean visualizar la información en un dashboard. 
+
+Para esto, se quiere conocer:
+	
+     - Las cantidades de piezas producidas, así como las órdenas.
+     - Los porcentajes de entrega y devolución.
+     - Las cantidades de piezas producidas por las distintas categorías.
+     - Una comparativa de las distintas razones de devolución.
+
+Se proporciona un archivo de Excel "Produccion.xlsx", así como 3 imágenes para el desarrollo completo de práctica.
+
 
 ### Excel
 
