@@ -18,4 +18,4 @@ Observaciones:
 ![Optional Text](Informe de Ventas/Informe de Ventas.png)
 
 ![stack Overflow](http://lmsotfy.com/so.png)
-![stack Overflow](Informe de Ventas/Informe de Ventas.png)
+![stack Overflow]([Informe de Ventas/Informe de Ventas.png](https://github.com/Ana-Gabriela-Taipe/PowerBI-y-Excel/blob/ccf5f15c0958ffd66c7bbe2c31b25d23d287cf96/Informe%20de%20Ventas/Informe%20de%20Ventas.png))
