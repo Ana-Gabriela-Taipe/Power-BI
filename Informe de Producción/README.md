@@ -7,9 +7,6 @@ Para esto, se quiere conocer:
      - Las cantidades de piezas producidas por las distintas categorías.
      - Una comparativa de las distintas razones de devolución.
 
-Se proporciona un archivo de Excel "Produccion.xlsx", así como 3 imágenes para el desarrollo completo de práctica.
-
-
 ### Excel
 
 ![](https://github.com/Ana-Gabriela-Taipe/Power-BI/blob/main/Img/InformePro1.png)
