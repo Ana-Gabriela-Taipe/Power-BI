@@ -1,4 +1,4 @@
-En este **Reporte de Ingresos y Utilidades** se realizó graficos y visualizaciones interactivas que represantan los Ingresos y Utilidades de los diferentes Tipos de Productos por Región que maneja la empresa X, así como el **Margen de Utilidad** de cada uno de ellos, con el objetivo de contar una historia y que ayude a la toma de una acción eficiente. Se utiliza el archivo "Finanzas.xlsx" para el desarrollo de este informe.
+En este **Reporte de Ingresos y Utilidades** se realizó graficos y visualizaciones interactivas que represantan los Ingresos y Utilidades de los diferentes Tipos de Productos por Región que maneja la empresa X, así como el **Margen de Utilidad** de cada uno de ellos, con el objetivo de contar una historia y que ayude a la toma de una acción eficiente.
 
 Como conclusiones podemos decir que:
 
