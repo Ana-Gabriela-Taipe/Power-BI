@@ -1,6 +1,7 @@
 En este **Informe de Ventas** se realizó gráficos y visualizaciones interactivas que represantan los montos de ventas para distintas categorías (Región, Producto, Vendedor) dentro e una serie de datos de la Data "Ventas.xlsx¨.
 
 Como conclusiones podemos decir que:
+
 	1. La región Central es la que más ventas ha desarrollado, teniendo un 38% de las ventas totales.
 	2. El producto que más se ha vendido son los productos de Sistemas, ocupando el 56% de las ventas.
 	3. El vendedor más prometedor ha sido Karen con ventas que superan los $50 mil dólares. 
