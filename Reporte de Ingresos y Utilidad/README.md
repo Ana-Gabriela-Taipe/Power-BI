@@ -11,3 +11,13 @@ Observaciones:
 
 	- Se realiza el reporte en los lenguajes de visualización y análisis de datos: Power BI y Excel.
 	- Para visualizar el informe en Power BI seguir el enlace de la carpeta "Power BI Reporte de Ingresos y Utilidad". 
+
+## Excel
+![](https://github.com/Ana-Gabriela-Taipe/Power-BI/blob/main/Img/ReporteIngreUtilMarg%201.png)
+![](https://github.com/Ana-Gabriela-Taipe/Power-BI/blob/main/Img/ReporteIngreUtilMarg%202.png)
+![](https://github.com/Ana-Gabriela-Taipe/Power-BI/blob/main/Img/ReporteIngreUtilMarg%203.png)
+
+## Power BI
+![](https://github.com/Ana-Gabriela-Taipe/Power-BI/blob/main/Img/ReporteIngreUtilMargPB%201.png)
+![](https://github.com/Ana-Gabriela-Taipe/Power-BI/blob/main/Img/ReporteIngreUtilMargPB%202.png)
+![](https://github.com/Ana-Gabriela-Taipe/Power-BI/blob/main/Img/ReporteIngreUtilMargPB%203.png)
