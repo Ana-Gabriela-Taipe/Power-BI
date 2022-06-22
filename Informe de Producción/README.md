@@ -7,8 +7,8 @@ Para esto, se quiere conocer:
      - Las cantidades de piezas producidas por las distintas categorías.
      - Una comparativa de las distintas razones de devolución.
 
-### Excel
-
+## Excel
 ![](https://github.com/Ana-Gabriela-Taipe/Power-BI/blob/main/Img/InformePro1.png)
-
 ![](https://github.com/Ana-Gabriela-Taipe/Power-BI/blob/main/Img/InformePro2.png)
+
+## Power BI
