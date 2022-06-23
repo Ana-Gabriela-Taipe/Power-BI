@@ -12,5 +12,5 @@ Para esto, se quiere conocer:
 ![](https://github.com/Ana-Gabriela-Taipe/Power-BI/blob/main/Img/InformePro2.png)
 
 ## Power BI
-![](https://github.com/Ana-Gabriela-Taipe/Power-BI/blob/main/Img/InformeProPB1.png)
-![](https://github.com/Ana-Gabriela-Taipe/Power-BI/blob/main/Img/InformeProPB2.png)
+![](https://github.com/Ana-Gabriela-Taipe/Power-BI/blob/main/Img/InformePro1PB.png)
+![](https://github.com/Ana-Gabriela-Taipe/Power-BI/blob/main/Img/InformePro2PB.png)
